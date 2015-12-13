@@ -31,7 +31,7 @@
 355,long
 225,mutable
 483,nullptr
-225,noexept
+225,noexcept
 419,new
 291,namespace
 97,override
